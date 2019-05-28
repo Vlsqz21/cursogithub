@@ -1,2 +1,2 @@
 # cursogithub
-Para practicar del curso de github de udemy y usar los patrones de diseño.
+Para practicar el curso de github de udemy y usar los patrones de diseño.
