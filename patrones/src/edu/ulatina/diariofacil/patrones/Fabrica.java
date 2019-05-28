@@ -1,5 +1,5 @@
 
-package patrones;
+package edu.ulatina.diariofacil.patrones;
 
 
 
